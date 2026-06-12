@@ -1,0 +1,10 @@
+trainingSet/
+testSet/
+*.zip
+*.tar.gz
+.ipynb_checkpoints/
+__pycache__/
+.streamlit/
+venv/
+.venv/
+.DS_Store
